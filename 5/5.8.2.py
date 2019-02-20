@@ -8,3 +8,4 @@ while a <= 40:
         print("-",a,sep="",end=" ")
     a += 3
     count += 1
+ 

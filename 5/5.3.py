@@ -14,4 +14,4 @@ if (a-b) <= 0.001:
     print("Close")
 
 else:
-    print("Not close")
+    print("Not close") 

@@ -11,4 +11,4 @@ for i in range(1,n+1):
         if i % 2 == 0:
             print(i,"is not divisible by",m,"and is an even number")
         else:
-            print(i,"is not divisible by",m,"and is an odd number")
+            print(i,"is not divisible by",m,"and is an odd number") 

@@ -31,3 +31,4 @@ else:
         print("The Smallest number: ",a)
         print("The Next higher number: ",b)
         print("The Highest number: ",c)
+ 

@@ -13,3 +13,4 @@ for i in List:
 avg = Sum/len(List)
 
 print("The average is",avg)
+ 

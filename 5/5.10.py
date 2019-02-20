@@ -9,4 +9,4 @@ elif a == 4:
 elif a == 8:
     print("Its 8")
 else:
-    print("Ends with neither")
+    print("Ends with neither") 

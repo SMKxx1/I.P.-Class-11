@@ -9,4 +9,4 @@ elif a < 100:
 else:
     p = 70    
 
-print("The total bill amount is",p*a)
+print("The total bill amount is",p*a) 

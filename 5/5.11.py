@@ -13,3 +13,4 @@ if n > 20:
             print(i)
 else:
     print("Number is smaller then or equal to 20")
+ 
