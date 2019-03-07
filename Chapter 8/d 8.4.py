@@ -1,0 +1,2 @@
+dic = {'std 1':{'roll no':1111,'name':'aaaa','marks':111,'grade':'a'},'std 2':{'roll no':2222,'name':'bbbb','marks':222,'grade':'b'},'std 3':{'roll no':3333,'name':'cccc','marks':333,'grade':'c'}}
+print(dic)
